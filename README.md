@@ -16,3 +16,6 @@ This project leverages **machine learning** and **natural language processing (N
 - Engagement metrics forecasting  
 - Trend analysis  
 - Performance benchmarking  
+
+
+![nsxshp6rgz4efb9o4oue](https://github.com/user-attachments/assets/0ae3854c-d0ba-4c31-b4f9-231164aecc92)
